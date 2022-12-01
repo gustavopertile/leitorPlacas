@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925243261803",
+    "firebase_url": "https://platerecognitionsd-default-rtdb.firebaseio.com",
+    "project_id": "platerecognitionsd",
+    "storage_bucket": "platerecognitionsd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925243261803:android:e2a88e21b25cec448fc22e",
+        "android_client_info": {
+          "package_name": "com.example.leitor_placas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925243261803-ch8ibsn8pigostkeqd4r50reeghmtu41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDfD35AHyv9oIE8hKVnCMiI9CDo6LTDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925243261803-ch8ibsn8pigostkeqd4r50reeghmtu41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
